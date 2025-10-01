@@ -30,10 +30,13 @@
 
 ## 🖼️ Portfolio Showcase  
 
-| Illustration | Illustration |
-|--------------|--------------|
-| ![Art1](assets/art1.png) | ![Art2](assets/art2.png) |
-| ![Art3](assets/art3.png) | ![Art4](assets/art4.png) |
+<p align="center">
+  <img src="assets/art1.png" width="400"/>
+</p>
+<p align="center">
+  <img src="assets/art2.png" width="400"/>
+</p>
+
 👉 *More works on [Instagram](https://instagram.com/morphinelis)*  
 
 
