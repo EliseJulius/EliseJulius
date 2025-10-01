@@ -28,6 +28,17 @@
 
 ---
 
+## 🖼️ Portfolio Showcase  
+
+| Illustration | Illustration |
+|--------------|--------|
+| ![Art1](assets/art1.jpg) | ![Art2](assets/poster1.jpg) | 
+
+👉 *More works on [Instagram](https://instagram.com/morphinelis)*  
+
+
+---
+
 ## 🎯 Career Goals  
 - To become a professional **illustrator** and **designer**  
 - To develop unique art styles and contribute creative works to projects and communities  
