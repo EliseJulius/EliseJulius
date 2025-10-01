@@ -32,8 +32,8 @@
 
 | Illustration | Illustration |
 |--------------|--------------|
-| ![Art1](assets/art1.jpg) | ![Art2](assets/art2.jpg) |
-| ![Art3](assets/art3.jpg) | ![Art4](assets/art4.jpg) |
+| ![Art1](assets/art1.png) | ![Art2](assets/art2.png) |
+| ![Art3](assets/art3.png) | ![Art4](assets/art4.png) |
 👉 *More works on [Instagram](https://instagram.com/morphinelis)*  
 
 
