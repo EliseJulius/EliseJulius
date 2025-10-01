@@ -32,7 +32,7 @@
 
 | Illustration | Illustration |
 |--------------|--------|
-| ![Art1](assets/art1.jpg) | ![Art2](assets/poster1.jpg) | 
+| ![Art1](assets/art1.png) | ![Art2](assets/art2.png) | 
 
 👉 *More works on [Instagram](https://instagram.com/morphinelis)*  
 
