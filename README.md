@@ -18,7 +18,7 @@
 
 ## 🎨 Skills & Interests  
 - **Creative Skills**: Illustration, Digital Drawing, Graphic Design Basics  
-- **Tools I’m learning/using**: Adobe Illustrator, Clip Studio Paint  
+- **Tools I’m learning/using**: Adobe Illustrator, Adobe Photoshop, Clip Studio Paint  
 - **Interests**:  
   - 🎮 Playing games  
   - 🎶 Listening to music  
