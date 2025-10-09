@@ -25,15 +25,6 @@
   - ✏️ Drawing & creating illustrations  
   - 🎥 Watching movies/videos  
   - 🌱 Exploring new hobbies  
-
----
-
-## 🖼️ Portfolio Showcase  
-
-<p align="center">
-  <img src="assets/art2.png" width="600"/>
-</p>
-
 👉 *More works on [Instagram](https://instagram.com/morphinelis)*  
 
 
