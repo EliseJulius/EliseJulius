@@ -17,16 +17,43 @@
 ---
 
 ## 🎨 Skills & Interests  
-- **Creative Skills**: Illustration, Digital Drawing, Graphic Design Basics  
-- **Tools I’m learning/using**: Adobe Illustrator, Adobe Photoshop, Clip Studio Paint  
-- **Interests**:  
-  - 🎮 Playing games  
-  - 🎶 Listening to music  
-  - ✏️ Drawing & creating illustrations  
-  - 🎥 Watching movies/videos  
-  - 🌱 Exploring new hobbies  
-👉 *More works on [Instagram](https://instagram.com/morphinelis)*  
 
+### 🧠 Creative & Technical Skills  
+| Software / Tool | Skill Level | Rating |
+|------------------|-------------|---------|
+| **Clip Studio Paint** | 🎨 Illustration | ⭐⭐⭐⭐☆ (4/5) |
+| **Adobe Photoshop** | Image Editing | ⭐⭐⭐⭐☆ (3.5/5) |
+| **Adobe Illustrator** | Vector Design | ⭐⭐⭐☆☆ (3/5) |
+| **Adobe Premiere Pro** | Video Editing | ⭐⭐⭐☆☆ (3/5) |
+| **After Effects** | Motion & FX | ⭐⭐⭐☆☆ (3/5) |
+
+---
+
+### 📊 Skill Visualization  
+
+![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=morphinelis&layout=compact&theme=rose_pine&hide_border=true)
+
+#### 🎨 Art Tool Proficiency  
+
+| Tool | Skill Level |
+|------|--------------|
+| 🎨 **Clip Studio Paint** | ████████████▌ 80% |
+| 🖌️ **Adobe Photoshop** | ██████████▏ 70% |
+| ✒️ **Adobe Illustrator** | ████████▎ 60% |
+| 🎬 **Premiere Pro** | ███████▍ 55% |
+| 💫 **After Effects** | ███████▍ 55% |
+
+
+---
+
+### 💡 Interests  
+- 🎮 Playing games  
+- 🎶 Listening to music  
+- ✏️ Drawing & creating illustrations  
+- 🎥 Watching movies/videos  
+- 🌱 Exploring new hobbies  
+
+👉 *More works on [Instagram](https://instagram.com/morphinelis)*  
 
 ---
 
@@ -34,12 +61,12 @@
 - To become a professional **illustrator** and **designer**  
 - To develop unique art styles and contribute creative works to projects and communities  
 
-
 ---
 
 ## 📬 Contact Me  
 ![Gmail Badge](https://img.shields.io/badge/n23dcpt004@ptithcm.edu.vn-c14438?style=flat&logo=Gmail&logoColor=white)  
 [![Facebook Badge](https://img.shields.io/badge/-Elise%20Nguyễn-blue?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/ketki.el)
 [![Instagram Badge](https://img.shields.io/badge/-morphinelis-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/morphinelis)  
-
 ---
+
+💫 *"Creativity takes courage — and curiosity keeps it alive."*
